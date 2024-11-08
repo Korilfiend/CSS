@@ -1,0 +1,26 @@
+element.style {
+    text-align: left;
+    display: flex;
+    position: relative;
+    max-width: 1260px;
+    margin: 0 auto;
+    background-color: #F3FCF2;
+    margin-bottom: 4rem;
+}
+
+.hand-bg {
+    background-image: url(https://www.apotek1.no/cmsasset/.content/B2C-bilder/legemidler-og-resepter/haand-med-pilleboks-1260x864.png);
+    background-position: right 0px top 60%;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    align-items: center;
+    padding: 4rem;
+    height: 300px;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+

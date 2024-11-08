@@ -1,0 +1,18 @@
+h2 {
+    color: red;
+}
+h3 {
+    color: blue;
+    font-size: 30px;
+}
+h4 {
+    color: pink;
+}
+h5 {
+    color: teal;
+    font-size: 2em;
+}
+h6 {
+    color: yellow;
+    font-size: 3em;
+}

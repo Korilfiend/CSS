@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.backgimg{
+    background-image: url(Image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+article{
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: whitesmoke;
+    font-size: 50%;
+    transition: 2s;
+    text-align: center;
+}
+
+article:hover{
+    flex: 3;
+    font-size: 130%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.en{
+    background-image: url(Hornet_Idle.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+}
+
+.to{
+    background-image: url(Quirrel.png);
+    background-size: 190px;
+    background-repeat: no-repeat;
+}
+.tre{
+    background-image: url(The_Knight_Idle.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 200%;
+}

@@ -1,0 +1,48 @@
+#one {
+    width: 25%;
+    border: 5px solid blue;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0.5%;
+}
+
+#two {
+    width: 25%;
+    border: 5px solid green;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 0.5%;
+}
+
+#three {
+    width: 25%;
+    border: 5px solid orange;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0.5%;
+}
+
+#four {
+    width: 25%;
+    border: 5px solid yellow;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 0.5%;
+}
+
+#link a{
+    color: white;
+    text-align: center;
+    position: fixed;
+    top: 0.5%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: blue;
+    padding: 10px;
+    text-decoration: none;
+
+}

@@ -1,0 +1,33 @@
+h1{
+    color: olivedrab;
+    font-family:Papyrus;
+}
+h2{
+    color: cyan;
+    text-decoration: underline;
+    font-family: constantia;
+}
+h3{
+    color: rgb(149, 219, 36);
+    background-color: aqua;
+}
+.even{
+    color: red;
+}
+.odd{
+    color: darkblue;
+}
+.whatisgoingon{
+    color: blue;
+}
+.b1{
+    background-color: honeydew;
+    font-family: Calibri;
+    font-weight: 550;
+}
+.b2{
+    background-color: lavender;
+    text-align: center;
+    font-family: Calibri;
+    font-weight: 550;
+}

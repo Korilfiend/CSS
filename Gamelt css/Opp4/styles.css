@@ -1,0 +1,22 @@
+.one{
+    width: 65%;
+    padding: 1em;
+    background-color: lightyellow;
+    outline: 4px dashed orange;
+}
+
+.two{
+    width: 45%;
+    padding: 1em;
+    background-color: rgb(216, 244, 253);
+    border-block: 5px double;
+}
+
+.three{
+    width: 85%;
+    padding: 1em;
+    background-color: lightyellow;
+    border-style: groove;
+    border-width: 0.5em; 
+    border-color: rgba(131, 87, 29, 0.692);
+}
